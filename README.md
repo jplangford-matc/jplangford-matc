@@ -1,0 +1,1 @@
+This is my repository for Python Scripting. It contains all my assignments and projects for my coursework. I have no idea what I'm doing but this file generated successfully so it's a win... for today.
