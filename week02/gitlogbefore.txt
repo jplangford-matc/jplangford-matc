@@ -1,0 +1,11 @@
+commit 2f3856fca54320851c185ddc85e595d5f41a7446
+Author: jplangford-matc <jplangford@madisoncollege.edu>
+Date:   Sun Sep 15 19:23:27 2024 -0500
+
+    Added a new file
+
+commit 5cee52dd3318a1183465b4348263a03bc08b272d
+Author: jplangford-matc <jplangford@madisoncollege.edu>
+Date:   Sun Sep 15 18:31:45 2024 -0500
+
+    Initial commit of GitHub exercise
